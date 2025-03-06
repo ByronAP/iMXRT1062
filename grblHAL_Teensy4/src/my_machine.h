@@ -160,5 +160,4 @@ N_AXIS has a default value of 3, edit grbl\config.h to increase.
 #define NETWORK_WEBSOCKET_PORT  80
 #endif
 #endif
-#endif
 

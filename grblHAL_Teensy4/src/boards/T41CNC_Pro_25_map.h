@@ -150,7 +150,7 @@
 #endif
 
 #if I2C_ENABLE
-#define I2C_PORT            2  // Wire2 for pins 24 (SDA) and 25 (SCL)
-#define I2C_SCL2            (25u)  // Not referenced, for info only
-#define I2C_SDA2            (24u)  // Not referenced, for info only
+#define I2C_PORT            4  // Wire2 for pins 24 (SDA) and 25 (SCL)
+#define I2C_SCL2            (25u)
+#define I2C_SDA2            (24u)
 #endif
