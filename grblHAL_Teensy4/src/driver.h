@@ -113,6 +113,8 @@
   #include "boards/E5XMCS_T41_map.h"
 #elif defined(BOARD_MY_MACHINE)
   #include "boards/my_machine_map.h"
+#elif defined(BOARD_T41CNCPRO25)
+  #include "boards/T41CNC_Pro_25_map.h"
 #else // default board
 #include "boards/generic_map.h"
 #endif
